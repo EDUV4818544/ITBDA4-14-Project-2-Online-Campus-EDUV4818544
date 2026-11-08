@@ -1,0 +1,30 @@
+news_6.txt	1	Accounting officers must be accountable for non-payment of service providers
+news_6.txt	2	Monday, July 8, 2024
+news_6.txt	3	
+news_6.txt	4	Accounting officers must be held accountable for the non-payment of service providers, says Public Service Commission (PSC) Commissioner Anele Gxoyiya.
+news_6.txt	5	
+news_6.txt	6	“Consequence management should be instituted against Accounting Officers who fail to pay service providers within 30 days upon receipt of an invoice,” he said.
+news_6.txt	7	
+news_6.txt	8	Speaking at a media briefing in Pretoria on Monday, Gxoyiya said the non-payment of service providers in some instances result in some workers not receiving their salaries and loans not serviced.
+news_6.txt	9	
+news_6.txt	10	He added that while there has been some improvement in paying service providers, more still needs to be done.
+news_6.txt	11	
+news_6.txt	12	A recent report by National Treasury showed that in the 2023/24 financial year, national and provincial government departments had overall regressed in paying invoices to suppliers within the required 30 days.
+news_6.txt	13	
+news_6.txt	14	“According to the report, the number of invoices paid after 30 days by the national departments was 108 917 to the rand value of R4.6 billion as at end of the financial year.
+news_6.txt	15	
+news_6.txt	16	“This indicates an improvement of 2 365 or 2% when compared to invoices paid after 30 days by national departments in the 2022/23 financial year, which amounted to 111 282 invoices to the rand value of R4.1 billion,” he said.
+news_6.txt	17	
+news_6.txt	18	Gxoyiya said the National Treasury report indicates the number of invoices older than 30 days and not paid by national departments at the end of March 2024 amounting to 1 427 invoices to the value of R53 million.
+news_6.txt	19	
+news_6.txt	20	READ | Government departments fail to pay suppliers within 30 days
+news_6.txt	21	
+news_6.txt	22	Provincial departments contributed 70% of invoices paid after 30 days.
+news_6.txt	23	
+news_6.txt	24	“A total of 253 151 invoices amounting to R30.5 billion were paid after 30 days, representing a regression of 21 371 invoices or 9% when compared to the number of invoices paid after 30 days by provincial departments in the 2022/23 financial year which amounted to 231 780 invoices to the rand value of R29.3 billion.
+news_6.txt	25	
+news_6.txt	26	“The PSC would like to commend departments who paid invoices on time for their commitment is ensuring that service providers are paid within the prescribed period. The non-payment of invoices within 30 days remains a concern to the PSC and a violation of the Public Finance Management Act,” he said.
+news_6.txt	27	
+news_6.txt	28	The PSC said the most common reasons provided by departments for the late and/or non-payment of invoices vary from misfiled, misplaced or unrecorded invoices to inadequate internal control deficiencies.
+news_6.txt	29	
+news_6.txt	30	“The National Treasury has since provided recommendations to assist departments in addressing the identified root causes for late and/or non-payment of invoices and to ensure improvement in compliance with the requirement to pay suppliers’ invoices within the prescribed period of 30 days. – SAnews.gov.za

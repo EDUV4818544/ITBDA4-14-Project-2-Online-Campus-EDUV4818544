@@ -1,0 +1,18 @@
+news_4.txt	1	Police recue two kidnapped victims in Benoni
+news_4.txt	2	Tuesday, July 9, 2024
+news_4.txt	3	
+news_4.txt	4	Swift and agile action by the South African Police Service’s (SAPS) elite Special Task Force unit on Monday afternoon, led to the rescue of two kidnap victims at an informal settlement in Crystal Park, Benoni. 
+news_4.txt	5	
+news_4.txt	6	A 64-year-old man and a 34-year-old man were kidnapped while driving along Putfontein Road in Crystal Park on Sunday.
+news_4.txt	7	
+news_4.txt	8	According to the police, the kidnappers immediately began making ransom demands to their families.
+news_4.txt	9	
+news_4.txt	10	The police were notified and a team, led by the Special Task Force, was mobilised.
+news_4.txt	11	
+news_4.txt	12	On Monday afternoon, the team pounced on the kidnappers where a shootout ensued. One kidnapper was shot and killed; one was wounded and taken to hospital and the other four were arrested and taken into police custody.
+news_4.txt	13	
+news_4.txt	14	“The SAPS assures communities that may become victims of this type of crime that it has the necessary expertise and capabilities to intercept and takedown syndicates involved in kidnappings where ransom demands are made,” said the police in a statement.
+news_4.txt	15	
+news_4.txt	16	Last week, six kidnappers were arrested and two businessmen were rescued.
+news_4.txt	17	
+news_4.txt	18	Communities are urged to immediately report to their nearest police station or call the Crime Stop hotline number 08600 10111 if any of their relatives or friends fall victim to kidnappers. – SAnews.gov.za

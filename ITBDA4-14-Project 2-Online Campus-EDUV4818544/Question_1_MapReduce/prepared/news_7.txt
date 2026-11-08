@@ -1,0 +1,16 @@
+news_7.txt	1	Democratic dispensation necessitated a complete overhaul of state bureaucracy
+news_7.txt	2	Monday, July 8, 2024
+news_7.txt	3	
+news_7.txt	4	Public Service Commission (PSC) Commissioner Anele Gxoyiya says the transition from apartheid to a democratic dispensation necessitated a complete overhaul of the state bureaucracy.
+news_7.txt	5	
+news_7.txt	6	“Though tailored to the South African context, South Africa’s public administration reforms – notwithstanding their debatable strengths and weaknesses – followed international trends, from Traditional Public Administration (TPA) through to variants of New Public Management (NPM),” Gxoyiya said.
+news_7.txt	7	
+news_7.txt	8	Speaking in Pretoria earlier today, Gxoyiya said governments worldwide continuously reform to promote efficient public administration that is responsive to people’s needs and the countries’ social, economic and technical challenges.   
+news_7.txt	9	
+news_7.txt	10	“Similarly, there is recognition that reforms vary from country to country, and in the case of South Africa, the transition from apartheid to a democratic dispensation necessitated a complete overhaul of the state bureaucracy,” Gxoyiya said.
+news_7.txt	11	
+news_7.txt	12	He said the need for reflection on the historical and current factors that have shaped public service administration as it is known today became unavoidable at the tail end of 30 years of democratic governance in South Africa.
+news_7.txt	13	
+news_7.txt	14	“The PSC has consistently argued that the realisation of the fundamental rights in the Constitution and the peremptory adherence to the Constitutional Values and Principles (CVPs) are central to public administration reform. 
+news_7.txt	15	
+news_7.txt	16	“Simply put, one way of evaluating the public administration reforms in South Africa is to examine the public services provided and citizen’s perception of their efficacy,” he said. – SAnews.gov.za

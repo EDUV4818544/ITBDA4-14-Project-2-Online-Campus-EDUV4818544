@@ -1,0 +1,21 @@
+news_1.txt	1	Eskom former official, service provider appear in court
+news_1.txt	2	Tuesday, July 9, 2024
+news_1.txt	3	
+news_1.txt	4	An Eskom former employee and a service provider at the power utility have appeared in the Hendrina Magistrates’ Court to face charges of theft and fraud.
+news_1.txt	5	
+news_1.txt	6	The two made separate appearances at the court and were released on bail of R30 000 each.
+news_1.txt	7	
+news_1.txt	8	The power utility explained that an investigation had revealed that between January and April last year, the service provider had supplied five valve stems to the Hendrina Power Station.
+news_1.txt	9	
+news_1.txt	10	According to Eskom the valves “were stolen from the same power station warehouse, as a result of working with the Eskom employee”.
+news_1.txt	11	
+news_1.txt	12	“An internal investigation revealed that the Eskom employee had misused company resources without authorisation for their own personal gain and also falsified documents as the end-user.”
+news_1.txt	13	The Eskom employee resigned while a disciplinary action was being instituted.
+news_1.txt	14	
+news_1.txt	15	“Eskom suffered a financial loss of R667 500 because of this criminal activity,” Eskom said.
+news_1.txt	16	
+news_1.txt	17	Eskom Acting General Manager for Security Botse Sikhwitshi vowed that the power utility will continue to root out criminality in its ranks.
+news_1.txt	18	
+news_1.txt	19	“Eskom strongly condemns any fraudulent activity in its business operations and will not tolerate such behaviour. Our internal security investigations team will continue collaborating with the South African Police Service in ensuring that those who enrich themselves at Eskom’s expense are held accountable,” Sikhwitshi said.
+news_1.txt	20	
+news_1.txt	21	The two are expected back in court on 29 July. – SAnews.gov.za
